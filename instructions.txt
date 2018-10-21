@@ -1,0 +1,3 @@
+main_analysis.m --- get the signal
+figure_of_Detection.m --- GUI
+SFT_with_imagefilter.m --- batch processing to get the images
